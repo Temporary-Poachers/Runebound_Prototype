@@ -1,0 +1,31 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  # Enable version updates for Conan packages
+  - package-ecosystem: "conan"
+    directory: "/Source" # Location of the conanfile.txt file
+    schedule:
+      interval: "weekly"
+    # Assign pull requests to the team of 4 people
+    assignees:
+      - "user1"
+      - "user2"
+      - "user3"
+      - "user4"
+    # Add a label to the pull requests
+    labels:
+      - "dependencies"
+    # Request reviews from the team of 4 people
+    reviewers:
+      - "user1"
+      - "user2"
+      - "user3"
+      - "user4"
+    # Customize the commit message
+    commit-message:
+      prefix: "chore"
+      include: "scope"
