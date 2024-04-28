@@ -20,3 +20,16 @@ Slack link: https://join.slack.com/t/slack-vyg1374/shared\_invite/zt-2baitgfw7-z
 // Some code
 ```
 
+
+
+```mermaid
+graph LR
+    Initialize --> GameLoop
+    GameLoop --> HandleInput
+    HandleInput --> UpdateGame
+    UpdateGame --> Render
+    Render --> GameLoop
+    GameLoop --> CheckQuit
+    CheckQuit -->|yes| Quit
+    CheckQuit -->|no| GameLoop
+```
