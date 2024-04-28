@@ -1,3 +1,3 @@
 # README
 
-This is a tempo page.
+This is a temporary page.
