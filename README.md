@@ -12,15 +12,9 @@ link to gitbook page with view-only access: https://app.gitbook.com/invite/uZMY4
 
 
 
-<figure><img src=".gitbook/assets/TP_PFP.png" alt="Logo" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/TP_PFP.png" alt="Logo" width="375"><figcaption><p>Logo of Temporary Poachers</p></figcaption></figure>
 
-Slack link: https://join.slack.com/t/slack-vyg1374/shared\_invite/zt-2baitgfw7-zDMatwb7q8dpspR\~9mU6SQ
-
-```
-// Some code
-```
-
-
+Mermaid diagram test:
 
 ```mermaid
 graph LR
@@ -33,3 +27,5 @@ graph LR
     CheckQuit -->|yes| Quit
     CheckQuit -->|no| GameLoop
 ```
+
+Slack link: https://join.slack.com/t/slack-vyg1374/shared\_invite/zt-2baitgfw7-zDMatwb7q8dpspR\~9mU6SQ
