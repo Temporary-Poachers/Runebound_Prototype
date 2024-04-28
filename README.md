@@ -6,6 +6,12 @@ description: >-
 
 # README
 
+
+
+{% hint style="info" %}
+$$f(x) = x * e^{2 pi i \xi x}$$
+{% endhint %}
+
 link to gitbook page with view-only access: https://app.gitbook.com/invite/uZMY4X7crbQgtQ2dZ2Rs/7x12vboA8OWTUKWTU25e
 
 
