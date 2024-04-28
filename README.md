@@ -1,11 +1,14 @@
 ---
 description: >-
-  This is a markdown readme file created with GitBook; link to page with
-  view-only access:
-  https://app.gitbook.com/invite/uZMY4X7crbQgtQ2dZ2Rs/7x12vboA8OWTUKWTU25e
+  This is a markdown readme file created with GitBook; link to website view of
+  this file: https://marzlars.gitbook.io/temporary-poachers-markdown
 ---
 
 # README
+
+link to gitbook page with view-only access: https://app.gitbook.com/invite/uZMY4X7crbQgtQ2dZ2Rs/7x12vboA8OWTUKWTU25e
+
+
 
 
 
