@@ -4,19 +4,13 @@ description: >-
   this file: https://marzlars.gitbook.io/temporary-poachers-markdown
 ---
 
-# README
-
-
+# 😎 README
 
 {% hint style="info" %}
 $$f(x) = x * e^{2 pi i \xi x}$$
 {% endhint %}
 
 link to gitbook page with view-only access: https://app.gitbook.com/invite/uZMY4X7crbQgtQ2dZ2Rs/7x12vboA8OWTUKWTU25e
-
-
-
-
 
 <figure><img src=".gitbook/assets/TP_PFP.png" alt="Logo" width="375"><figcaption><p>Logo of Temporary Poachers</p></figcaption></figure>
 
