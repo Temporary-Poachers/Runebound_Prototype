@@ -1,0 +1,2 @@
+# Ensure all files use LF as the end-of-line sequence
+* text=auto eol=lf
