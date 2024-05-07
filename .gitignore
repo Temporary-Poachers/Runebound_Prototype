@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/StarterContent/Blueprints/BP_LightStudio.uasset
+Content/StarterContent/Maps/Advanced_Lighting.umap
+Content/StarterContent/Maps/Minimal_Default.umap
+Content/StarterContent/Maps/StarterMap.umap
+Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+Content/StarterContent/Props/Materials/M_Chair.uasset
+Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+Content/StarterContent/Props/Materials/M_Chair.uasset
