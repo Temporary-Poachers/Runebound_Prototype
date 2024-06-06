@@ -45,6 +45,10 @@
 		{
 			"Name": "MobilePatchingUtils",
 			"Enabled": false
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
